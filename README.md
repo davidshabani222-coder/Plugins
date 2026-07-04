@@ -1,12 +1,12 @@
 # Plugins
 
-Claude Code plugin marketplace (`claude-plugins-official`).
+Claude Code plugin marketplace (`davidshabani-plugins`).
 
 ## Installing a plugin
 
 ```
 claude plugin marketplace add davidshabani222-coder/Plugins
-claude plugin install superpowers@claude-plugins-official
+claude plugin install superpowers@davidshabani-plugins
 ```
 
 ## Available plugins
